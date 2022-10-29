@@ -1,0 +1,6 @@
+a = int(input("a = "))
+b = int(input("b = "))
+print("The value of a+b is: ",a+b)
+print("The value of a-b is: ",a-b)
+print("The value of a*b is: ",a*b)
+print("The value of a//b is: ",a//b)
