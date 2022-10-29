@@ -14,7 +14,7 @@ if time > 10 :
 elif time > 6 and time < 10 :
     print("Now your salary is: {:.2f}".format(salary + salary*(8/100)))
 
-elif time <6 :
+elif time < 6 :
     print("Now your salary is: {:.2f}".format(salary + salary*(5/100)))
 
 else :
