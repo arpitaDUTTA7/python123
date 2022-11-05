@@ -1,4 +1,4 @@
-# Write a pattern to print the following number patterns using a loop.
+# WAP to print the following number patterns using a loop.
 # a) 1
 #    1  2
 #    1  2  3
