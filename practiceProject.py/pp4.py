@@ -1,7 +1,8 @@
 # Fibonacci series
-n = int(input("Enter the last term: "))
+n = int(input("Enter the number of terms: "))
 t1 = 0
 t2 = 1 
+print("Fibonacci series:")
 if n == 1: 
    print(t1,end="\n")
 
