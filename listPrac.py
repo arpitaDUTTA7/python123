@@ -49,8 +49,7 @@ print(numbers)
 
 numbers.sort()
 print(numbers)
-
-numbers.reverse()
+numbers.sort(reverse=True)
 print(numbers)
 
 num=[1,2,3,4,5]
